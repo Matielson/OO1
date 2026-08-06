@@ -16,13 +16,7 @@ En este repositorio se encuentran ejercicios, prácticas y trabajos desarrollado
 Incluye material útil para practicar programación imperativa, orientada a objetos y concurrente.
 
 ## 🧠 Contenidos principales
-- Programación imperativa
-- Lenguaje **Pascal**
-- Introducción a la Programación Orientada a Objetos (POO)
-- Lenguaje **Java**
-- Introduccion a la Programación Concurrente
-- Lenguaje **R-Info**
-- Prácticas, ejercicios y parciales resueltos de los 3 modulos.
+
 
 ## 📂 Organización del repositorio
 El contenido se encuentra organizado por módulos y/o prácticas.
