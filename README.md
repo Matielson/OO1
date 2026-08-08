@@ -15,7 +15,7 @@ Repositorio correspondiente a la materia **Orientación a Objetos 1 (2do año)**
 En este repositorio se encuentran ejercicios, prácticas y trabajos desarrollados a lo largo de la cursada de la materia **Orientación a Objetos 1**.  
 Incluye material útil para practicar programación imperativa, orientada a objetos y concurrente.
 
-## 🧠 Contenidos principales
+## 🧠 Contenidos principales        
 
 
 ## 📂 Organización del repositorio
